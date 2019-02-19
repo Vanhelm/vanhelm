@@ -18,3 +18,5 @@ git status статус git
 git add workGit проиндексировать страницу перед камитом
 git add . индексация всех файлов
 git commit "text" закомить(сохранить)
+git log - логи комитов
+git show fc5a1f4bbda75d8021b22b936b09b4ce63eb2eee - посмотреть что было изененно в коммите//
