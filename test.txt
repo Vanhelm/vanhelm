@@ -1,4 +1,4 @@
 if (test = 1)
 echo 'ура'
 else
-echo 'fail'
+echo 'fail';;;sd;f;dsf;sd;fsd;
