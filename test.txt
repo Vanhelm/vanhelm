@@ -1,0 +1,4 @@
+if (test = 1)
+echo 'ура'
+else
+echo 'fail'
