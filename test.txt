@@ -1,0 +1,5 @@
+if (test = 1)
+echo 'ура'
+else
+change
+echo 'fail';;;sd;f;dsf;sd;fsd;fdslfsdg,sd;
